@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/736x/92/ea/c2/92eac2985b351b5aec515e0ebe27e092.jpg)](https://VirajBhatPrabhu.github.io)
+[![MasterHead](https://rishavanand.github.io/static/images/greetings.gif)]
 
 <h1>Hi 👋, My name is Viraj</h1>
 <h3>A passionate data scientist and a budding sports-performance analyst from india</h3>
