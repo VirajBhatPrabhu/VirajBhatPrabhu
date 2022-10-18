@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, My name is Viraj</h1>
 <h3 align="center">A passionate data scientist and a budding sports-performance analyst from india</h3>
 
-(img align="right" alt="Data scientist" width="400" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif")
+<img align="right" alt="Data scientist" width="400" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
 
 
 - 🔭 I’m currently working on **Implementation of BERT and GPT3**
