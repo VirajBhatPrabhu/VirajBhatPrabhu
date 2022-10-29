@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Implementation of BERT and GPT3**
 
-- 🌱 I’m currently learning **Javascript- react and node.js, R programming**
+- 🌱 I’m currently learning **Javascript, R programming, WEB 3.0**
 
 - 💬 Ask me about **Machine learning, Deep learning ,Data analysis, Artificial Intelligence, NLP**
 
