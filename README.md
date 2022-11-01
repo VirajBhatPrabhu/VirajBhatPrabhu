@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **Implementation of BERT and GPT3**
 
 - 🌱 I’m currently learning **Javascript, R programming, WEB 3.0**
-- 
+
 -  👨‍💻 All of my projects are available on my [Portfolio](https://virajbhatprabhu.github.io/portfolio/)
 
 - 💬 Ask me about **Machine learning, Deep learning ,Data analysis, Artificial Intelligence, NLP**
