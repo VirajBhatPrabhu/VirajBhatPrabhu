@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/this_is_viraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="this_is_viraj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/viraj bhat prabhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viraj bhat prabhu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/viraj-bhat-prabhu-287931247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viraj bhat prabhu" height="30" width="40" /></a>
 <a href="https://kaggle.com/virajprabhu10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="virajprabhu10" height="30" width="40" /></a>
 </p>
 
