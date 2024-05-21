@@ -1,7 +1,7 @@
 ![MasterHead](https://rishavanand.github.io/static/images/greetings.gif)
 # Hi there, I'm Viraj Bhat Prabhu! 🚀
 
-I'm a budding Data Analyst from the vibrant land of India, known as "Bharat" in our native tongue. My journey through the world of data is an exciting one, and I'm here to share it with you.
+I'm a budding Data Engineer from the vibrant land of India, known as "Bharat" in our native tongue. My journey through the world of data is an exciting one, and I'm here to share it with you.
 
 
 <img align="right" alt="Data scientist" width="400" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
