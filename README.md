@@ -32,7 +32,7 @@ I'm not just data-savvy; I'm also well-versed in the big data ecosystem. From **
 
 ## 🎓 Academic Achievements
 
-- 🏆 Graduated from Sunbeam Institute of Information Technology with a PG Diploma in Big Data Analytics.
+- 🏆 Graduated from Center For Development of Advanced Computing with a PG Diploma in Big Data Analytics.
 - 🥈 Secured the 2nd All India Rank (AIR) in CDAC CCEE for DBDA.
 - 🏅 Winner of the Python Hackathon 2023 at Sunbeam.
 - 🏅 Winner of the ML Hackathon 2023 at Sunbeam.
